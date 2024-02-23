@@ -1,0 +1,13 @@
+div {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body {
+  display: flex;
+  justify-content: center;
+  margin-top: 50%;
+  height: 100vh;
+}
